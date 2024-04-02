@@ -1,4 +1,5 @@
 # Charter-School-Segregation-Dashboard
+see it in action here: https://public.tableau.com/app/profile/alexander.m.vizzi/viz/School_Desegregation_Dashboard/Dashboard1
 
 • Conducted analysis of public schools' racial and economic diversity, comparing school populations to district populations by joining Census and public school data
 
@@ -10,4 +11,4 @@
 
 ![Screenshot 2024-04-02 at 11 08 36 AM](https://github.com/vizziviz/Charter-School-Segregation-Dashboard/assets/64040862/eaeaaac6-43e9-4089-9d1e-fde55fbf6567)
 
-see it in action here: https://public.tableau.com/app/profile/alexander.m.vizzi/viz/School_Desegregation_Dashboard/Dashboard1
+
