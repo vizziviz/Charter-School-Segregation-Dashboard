@@ -1,13 +1,13 @@
 # School Segregation Dashboard
 see it in action here: https://public.tableau.com/app/profile/alexander.m.vizzi/viz/School_Desegregation_Dashboard/Dashboard1
 
-![Screenshot 2024-04-02 at 11 08 36 AM](https://github.com/vizziviz/Charter-School-Segregation-Dashboard/assets/64040862/eaeaaac6-43e9-4089-9d1e-fde55fbf6567)
-
 Problem: 
 
 Charter schools decrease school segregation in some areas and increase segregation in other areas. 
 
 Based on controlling (demographic and economic) factors that influence charter school effects and the historical effects of charter schools, can we predict the segregation effects of opening new charter schools in different school districts?
+
+![Screenshot 2024-04-02 at 11 08 36 AM](https://github.com/vizziviz/Charter-School-Segregation-Dashboard/assets/64040862/eaeaaac6-43e9-4089-9d1e-fde55fbf6567)
 
 Steps of Analysis:
 
